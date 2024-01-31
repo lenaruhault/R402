@@ -1,7 +1,5 @@
 public interface Ttfuntion {
-    public bm1();
+    public readCsv();
     public bm2();
-
-    
     public bm3();
 }
