@@ -1,9 +1,10 @@
 public public class Exo1 implements Ttfuntion(){
 
-    public readCsv(String filePath, int RandomNumber){
+    public static void readCsv(String filePath){
 
-        String filePath = "EXPORTCSV.csv";
-        
+        int RandomNumber = 4 ;
+
+
 
 
     }
